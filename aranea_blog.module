@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Aranea Blog feature.
+ */
+
+include_once 'aranea_blog.features.inc';
