@@ -22,7 +22,7 @@ function aranea_blog_node_info() {
     'blog' => array(
       'name' => t('Blog'),
       'base' => 'node_content',
-      'description' => t('**TODO** add description here.'),
+      'description' => t('Tulisan Ringan dan bebas.'),
       'has_title' => '1',
       'title_label' => t('Title'),
       'help' => '',

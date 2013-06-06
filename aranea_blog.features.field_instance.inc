@@ -59,7 +59,7 @@ function aranea_blog_field_default_field_instances() {
     'bundle' => 'blog',
     'default_value' => NULL,
     'deleted' => 0,
-    'description' => 'Insert your post tags, separated with coma.',
+    'description' => 'Masukkan tag, dan pisahkan dengan tanda koma.',
     'display' => array(
       'default' => array(
         'label' => 'above',
@@ -97,7 +97,7 @@ function aranea_blog_field_default_field_instances() {
   // Translatables
   // Included for use with string extractors like potx.
   t('Body');
-  t('Insert your post tags, separated with coma.');
+  t('Masukkan tag, dan pisahkan dengan tanda koma.');
   t('Tags');
 
   return $field_instances;

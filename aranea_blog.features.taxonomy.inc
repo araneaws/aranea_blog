@@ -12,7 +12,7 @@ function aranea_blog_taxonomy_default_vocabularies() {
     'tags' => array(
       'name' => 'Tags',
       'machine_name' => 'tags',
-      'description' => '**TODO** Add some description here',
+      'description' => '',
       'hierarchy' => 0,
       'module' => 'taxonomy',
       'weight' => 0,
